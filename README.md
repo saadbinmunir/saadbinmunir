@@ -1,4 +1,4 @@
-👋 Hi, I’m @saadbinmunir
-👀 I’m interested in Machine Learning and Data Science
-🌱 I’m currently doing a data sciece internship at Data Glacier.
-📫 How to reach me: saadmunir24@gmail.com
+👋 Hi, I’m @saadbinmunir <br />
+👀 I’m interested in Machine Learning and Data Science <br />
+🌱 I’m currently doing a data science internship at Data Glacier.<br />
+📫 How to reach me: saadmunir24@gmail.com<br />
