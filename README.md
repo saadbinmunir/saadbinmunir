@@ -3,7 +3,7 @@
 👀 I am interested in Data Science, Machine Learning and Deep learning <br />
 🌱 I am currently doing a data science internship at Data Glacier.<br />
 
-### I have techical experience and interest in:
+### I have technical experience and interest in:
 * Machine Learning and Deep Learning
 * Natural Language Processing
 * Computer vision
