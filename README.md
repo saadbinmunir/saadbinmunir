@@ -1,17 +1,15 @@
 <h1 align="center">👋 Hi, I'm Saad Bin Munir</h1>
 
 👀 I am interested in Data Science, Machine Learning and Deep learning <br />
-🌱 I am currently doing a data science internship at Data Glacier.<br />
+🌱 I am currently working as a Data Scientist.<br />
 
 ### I have technical experience and interest in:
 * Machine Learning and Deep Learning
 * Natural Language Processing
 * Computer vision
-* Exploratory Data Analysis
-* Data Visualization
 * Artificial Intelligence
 
-### 📫 My Public Work:
+### My Public Work:
 * [Portfolio Website](https://saadbinmunir.github.io/)
 * [Developed Python Packages](https://pypi.org/user/saadbinmunir/)
 * [Stackoverflow help page](https://stackoverflow.com/users/7420990/saad-bin-munir)
