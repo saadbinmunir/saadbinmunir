@@ -10,7 +10,8 @@
 * Artificial Intelligence
 
 ### My Public Work:
-* [Portfolio Website](https://saadbinmunir.github.io/){:target="_blank" rel="noopener"}
+* <a href="http://example.com/" target="_blank">example</a>
+* [Portfolio Website](https://saadbinmunir.github.io/)
 * [Developed Python Packages](https://pypi.org/user/saadbinmunir/)
 * [Stackoverflow help page](https://stackoverflow.com/users/7420990/saad-bin-munir)
 
