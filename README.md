@@ -12,7 +12,7 @@
 ### My Public Work:
 * <a href="https://saadbinmunir.github.io/" target="_blank">Portfolio Website</a>
 * <a href="https://pypi.org/user/saadbinmunir/" target="_blank">Developed Python Packages</a>
-* <a href="https://stackoverflow.com/users/7420990/saad-bin-munir" target="_blank">Stackoverflow help page</a>
+* <a href="https://stackoverflow.com/users/7420990/saad-bin-munir?tab=profile" target="_blank">Stackoverflow help page</a>
 
 ### 📫 How to reach me?
 <a href="https://www.linkedin.com/in/saad-bin-munir/">
